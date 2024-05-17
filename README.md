@@ -1,4 +1,4 @@
-[# OPENING--AND-CLOSING
+# OPENING--AND-CLOSING
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
@@ -73,4 +73,3 @@ plt.axis("off")
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
-](https://github.com/VinithaNaidu/erosion--dilation/blob/main/README.md)
